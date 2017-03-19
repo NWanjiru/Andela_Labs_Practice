@@ -9,3 +9,4 @@ Contains:
 1. Factorial 
 2. Fizz_Buzz
 3. Data_Types
+4. Find_Max_Min
