@@ -1,3 +1,3 @@
 # Writing A Factorial Function.
 
-A **FACTORIAL** is the product of an integers and ALL the integers below it (except 0)
+A **FACTORIAL** is the product of an integer and ALL the integers below it (except 0)
