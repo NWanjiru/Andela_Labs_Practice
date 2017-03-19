@@ -1,4 +1,5 @@
 def factorial(number):
+	""" Calculate the factorial of a number """
 
 	x = 1
 	while number >= 1:
