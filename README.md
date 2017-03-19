@@ -7,3 +7,4 @@ Updated as each problem is solved
 Contains:
 
 1. Factorial 
+2. Fizz_Buzz
