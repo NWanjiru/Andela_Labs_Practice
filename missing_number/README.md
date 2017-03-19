@@ -1,4 +1,4 @@
-#Find_Missing
+# Find_Missing
 
 1. Takes two arrays all containing positive integers.
 2. Checks whether any of the arrays contains an extra number

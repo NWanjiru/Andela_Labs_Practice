@@ -10,4 +10,4 @@ Contains:
 2. Fizz_Buzz
 3. Data_Types
 4. Find_Max_Min
-5. Find_missing
+5. Missing_Number
