@@ -6,6 +6,9 @@ def words(sentence):
 	my_dict = {}
 
 	for w in my_words:
+		if w.isnumeric():
+			w = int(w)
+			
 		if w in my_dict:
 			my_dict[w] += 1
 
@@ -13,4 +16,5 @@ def words(sentence):
 			my_dict[w] = 1
 
 	return(my_dict)
+
 
