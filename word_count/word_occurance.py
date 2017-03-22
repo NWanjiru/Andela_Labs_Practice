@@ -1,6 +1,6 @@
 def words(sentence):
 	"""
-	Counts the occurrences or characters in a word
+	Counts the occurrences of characters in a word
 	"""
 	my_words = sentence.split()
 	my_dict = {}
