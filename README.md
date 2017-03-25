@@ -12,3 +12,4 @@ Contains:
 4. Find_Max_Min
 5. Missing_Number
 6. Word_Count
+7. String_Length
